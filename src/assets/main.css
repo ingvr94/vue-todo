@@ -1,0 +1,19 @@
+/* 
+general 
+-------
+*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font: 15px/1.4 "Poppins", sans-serif;
+  background: #4ec5c1;
+  color: #333;
+}
+
+#app {
+  padding: 60px 0;
+}
